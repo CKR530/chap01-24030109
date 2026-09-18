@@ -19,6 +19,6 @@ JavaEE（Servlet / JSP）入门实验项目，基于 Eclipse 动态 Web 工程�
 1. 在 Eclipse 中导入本工程（Import → Existing Projects into Workspace）
 2. 配置 Tomcat 8.5 运行时
 3. 部署到 Tomcat 并启动
-http://localhost:8080/chap01-24030109/1.6.jsp
-http://localhost:8080/chap01-24030109/1.4.html
-http://localhost:8080/chap01-24030109/helloServlet.do
+4.http://localhost:8080/chap01-24030109/1.6.jsp
+5.http://localhost:8080/chap01-24030109/1.4.html
+6.http://localhost:8080/chap01-24030109/helloServlet.do
